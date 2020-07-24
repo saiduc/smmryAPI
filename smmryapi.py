@@ -1,6 +1,6 @@
 import requests
 import collections
-from smmryAPI.summary import Summary
+from functions.smmryAPI.summary import Summary
 
 
 class SmmryAPIException(Exception):
